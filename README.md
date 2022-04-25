@@ -1,6 +1,6 @@
 # Flyaway
 
-#3 Project objective: 
+## Project objective: 
 
 As a Full Stack Developer, design and develop an airline booking portal named as FlyAway. Use the GitHub repository to manage the project artifacts. 
 
